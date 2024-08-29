@@ -1,6 +1,6 @@
 # Hey, Hari Priya here!!
 
-## Experienced Data Scientist
+## Senior Data Scientist
 
 ## 🌐 Get in Touch
 
