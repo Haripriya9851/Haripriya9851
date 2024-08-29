@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I'm a passionate Data Scientist with over 4.5 years of experience working at Ford Motor Company, where I've specialized in end-to-end machine learning projects. My focus has been on risk prediction, price forecasting, NLP topic modeling, GenAI LLM and productionizing ML pipelines in the Google Cloud Platform (GCP) using Vertex AI and BigQuery.
+I'm currently pursuing a Master's in Professional Studies in Analytics from Northeastern University. I’m a passionate Data Scientist with over 4.5 years of experience working at Ford Motor Company, where I've specialized in end-to-end machine learning projects. My focus has been on risk prediction, price forecasting, NLP topic modeling, and productionizing ML pipelines in the Google Cloud Platform (GCP) using Vertex AI and BigQuery. I regularly communicated with stakeholders to efficiently overcome challenges and ensure project success.
 
 ## 🌟 Skills and Expertise
 
@@ -20,14 +20,15 @@ Currently pursuing a Master's in Professional Studies in Analytics, focusing on 
 
 ## 🚀 Projects
 
-- **Yelp Restaurants NLP LDA topic modeling:** Performed sentiment analysis on Yelp reviews and categorized topics with LDA model, leading to improved customer sentiment insights.
-- **Twitter Sentiment Analysis:**
-- **Life Expectancy Analysis:** Investigated the impact of socio-economic factors on life expectancy across different regions leveraging ML clustering techniques. Visualized the results as a Tableau dashboard and delivered actionable insights for public health improvement.
-- **Sleep Health Analysis:** Analysis on how life expectancy and work habits intersect with sleep health.
+- [**Yelp Restaurants NLP LDA topic modeling:**](https://github.com/Haripriya9851/Yelp-Restaurants-Topic-Modelling---NLP) Performed sentiment analysis on Yelp reviews and categorized topics with LDA model, leading to improved customer sentiment insights.
+- [**Twitter Sentiment Analysis:**](https://github.com/Haripriya9851/Twitter-Sentiment-Analysis) Used different deep neural network models like CNN,LSTM to effectively classify offensive twitter comments.
+- [**Life Expectancy Analysis:**](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data) Investigated the impact of socio-economic factors on life expectancy across different regions leveraging ML clustering techniques. Visualized the results as a Tableau dashboard and delivered actionable insights for public health improvement.
+- [**Sleep Health Analysis:**](https://github.com/Haripriya9851/Impact-of-Physical-Lifestyle-factors-on-Sleep-Health) Evaluated the impact of lifestyle factors on sleep health among working adults, offering insights to guide public health policies leveraging R visualisations.
+
 
 ## 🎯 Goals
 
-I'm driven by a desire to leverage data science for social good, with a particular interest in analyzing life expectancy data to develop actionable recommendations for improving global health outcomes.
+I’m passionate about using data science to make a meaningful impact, whether for social good or within any organization. As a quick learner, I’m eager to gain industrial expertise in an environment that encourages growth and skill development. I’m recognized for my growth mindset and my enthusiasm for tackling new challenges.
 
 ## 🌐 Get in Touch
 
