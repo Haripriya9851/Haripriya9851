@@ -1,4 +1,4 @@
-# Hey There, Hari Priya Ramamoorthy here!!
+# Hey, Hari Priya here!!
 
 ## 👋 About Me
 
