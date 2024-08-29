@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I'm currently pursuing a Master's in Professional Studies in Analytics from Northeastern University. I’m a passionate Data Scientist with over 4.5 years of experience working at Ford Motor Company, where I've specialized in end-to-end machine learning projects. My focus has been on risk prediction, price forecasting, NLP topic modeling, and productionizing ML pipelines in the Google Cloud Platform (GCP) using Vertex AI and BigQuery. I regularly communicated with stakeholders to efficiently overcome challenges and ensure project success.
+I'm currently pursuing a Master's in Professional Studies in Analytics focusing on the intersection of data science and strategic decision-making from Northeastern University. I’m a passionate Data Scientist with over 4.5 years of experience working at Ford Motor Company, where I've specialized in end-to-end machine learning projects. My focus has been on risk prediction, price forecasting, NLP topic modeling, and productionizing ML pipelines in the Google Cloud Platform (GCP) using Vertex AI and BigQuery. I regularly communicated with stakeholders to efficiently overcome challenges and ensure project success.
 
 ## 🌟 Skills and Expertise
 
@@ -16,7 +16,14 @@ I'm currently pursuing a Master's in Professional Studies in Analytics from Nort
 
 ## 🎓 Education
 
-Currently pursuing a Master's in Professional Studies in Analytics, focusing on the intersection of data science and strategic decision-making. Awarded the CPS Leaders and Scholars program.
+1. **Master of Professional Studies in Analytics, Northeastern University, Boston, USA** (July 2024– May 2026)
+
+**Relevant Coursework:** Fundamentals of AI, Probability Theory and Introductory Statistics, Decision Support and Business Intelligence, Predictive Analytics, Risk Analytics
+
+2. **Bachelor of Technology in Computer Science Engineering, SASTRA University, India**    	                    (June 2015 – May 2019) 
+
+**Relevant Coursework:** Big Data Analytics, Python Programming with web frameworks, Database Management Systems, Data Warehousing and Data Mining, Cloud Computing, Information Storage and Management
+
 
 ## 🚀 Projects
 
