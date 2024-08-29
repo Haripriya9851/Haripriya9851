@@ -1,4 +1,4 @@
-# Hey, Hari Priya here!!
+# Hey, I'm Hari Priya(HP) :) 
 
 ## Data Science Engineer
 
