@@ -1,4 +1,4 @@
-# HariPriya Ramamoorthy
+# Hey There, Hari Priya Ramamoorthy here!!
 
 ## 👋 About Me
 
@@ -20,8 +20,10 @@ Currently pursuing a Master's in Professional Studies in Analytics, focusing on 
 
 ## 🚀 Projects
 
-- **Life Expectancy Analysis:** Investigating the impact of socio-economic factors on life expectancy across different regions.
-- **Sleep Health Analysis:** A presentation on how life expectancy and work habits intersect with sleep health.
+- **Yelp Restaurants NLP LDA topic modeling:** Performed sentiment analysis on Yelp reviews and categorized topics with LDA model, leading to improved customer sentiment insights.
+- **Twitter Sentiment Analysis:**
+- **Life Expectancy Analysis:** Investigated the impact of socio-economic factors on life expectancy across different regions leveraging ML clustering techniques. Visualized the results as a Tableau dashboard and delivered actionable insights for public health improvement.
+- **Sleep Health Analysis:** Analysis on how life expectancy and work habits intersect with sleep health.
 
 ## 🎯 Goals
 
