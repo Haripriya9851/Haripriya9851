@@ -35,6 +35,7 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 - [**Twitter Sentiment Analysis:**](https://github.com/Haripriya9851/Twitter-Sentiment-Analysis) Leveraged deep neural network models like CNN and LSTM to effectively classify offensive Twitter comments.
 - [**Life Expectancy Analysis:**](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data) Investigated the impact of socio-economic factors on life expectancy across different regions using ML clustering techniques. Visualized the results as a Tableau dashboard, delivering actionable insights for public health improvement.
 - [**Sleep Health Analysis:**](https://github.com/Haripriya9851/Impact-of-Physical-Lifestyle-factors-on-Sleep-Health) Analyzed the impact of lifestyle factors on sleep health among working adults, providing insights to guide public health policies using R visualizations.
+- [**GenAI Video Analysis:**](https://github.com/Haripriya9851/GenAI-Video-Analysis)Leveraged GPT-4, GenAI LLM model for video analysis, answering multiple queries using video frames for insight generation.
 
 ## 🌐 Get in Touch
 
