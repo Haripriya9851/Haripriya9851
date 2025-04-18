@@ -3,7 +3,8 @@
 ## Data Science Engineer
 
 ## 👋 About Me
-
+[![Haripriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haripriya9851)](https://github.com/Haripriya9851/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriya9851&layout=compact)
 I'm currently pursuing a Master's in Professional Studies in Analytics at Northeastern University, focusing on the intersection of data science and strategic decision-making. I’m a passionate Data Scientist with over 4.5 years of experience at Ford Motor Company, specializing in end-to-end machine learning projects. I regularly collaborated with stakeholders to efficiently overcome challenges and ensure project success. My expertise spans risk prediction, price forecasting, NLP topic modeling, data visualization with BI tools like Qlik and Tableau. I’ve also worked extensively on productionizing Python and SQL data engineering and ML pipelines in Google Cloud Platform (GCP), leveraging services such as BigQuery, Cloud Run, Airflow, and Vertex AI.
 
 ## 🎯 Goals
@@ -21,7 +22,6 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
    **Relevant Coursework:** Big Data Analytics, Python Programming with Web Frameworks, Database Management Systems, Data Warehousing and Data Mining, Cloud Computing, Information Storage and Management
 
 ## 🌟 Skills and Expertise
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriya9851&layout=compact)
 
 - **Data Science:** GenAI LLM, Machine Learning, Risk Prediction, Price Forecasting, NLP, Neural Networks
 - **Programming:** Python, SQL, R
