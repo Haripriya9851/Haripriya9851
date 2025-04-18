@@ -21,6 +21,7 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
    **Relevant Coursework:** Big Data Analytics, Python Programming with Web Frameworks, Database Management Systems, Data Warehousing and Data Mining, Cloud Computing, Information Storage and Management
 
 ## 🌟 Skills and Expertise
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 - **Data Science:** GenAI LLM, Machine Learning, Risk Prediction, Price Forecasting, NLP, Neural Networks
 - **Programming:** Python, SQL, R
