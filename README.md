@@ -24,11 +24,11 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 ## 🚀 Projects
 
 - [**Supply Chain Acharya - GenAI Agentbot for Retail Challenges**](https://github.com/Haripriya9851/SupplychainAcharya-5dgAI-Capstone) Built a GenAI powered agent, that could understand user queries in natural language, and dynamically generate SQL understanding the schema of the databases, to diagnose supply chain issues using Function calling with Gemini, LangChain, and LangGraph.
+- [**MBTA On-Time Prediction Analysis**](): Investigated Boston MBTA subway on-time prediction transit, provide recommendations on significant factors to include in existing MBTA on-time prediction model for improved accuracy based on statistical tests and Feature selection methods.
 - [**Yelp Restaurants NLP LDA Topic Modeling:**](https://github.com/Haripriya9851/Yelp-Restaurants-Topic-Modelling---NLP) Performed sentiment analysis on Yelp reviews and categorized topics using the LDA model, leading to improved customer sentiment insights.
 - [**Twitter Sentiment Analysis:**](https://github.com/Haripriya9851/Twitter-Sentiment-Analysis) Leveraged deep neural network models like CNN and LSTM to effectively classify offensive Twitter comments.
 - [**Life Expectancy Analysis:**](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data) Investigated the impact of socio-economic factors on life expectancy across different regions using ML clustering techniques. Visualized the results as a Tableau dashboard, delivering actionable insights for public health improvement.
 - [**Sleep Health Analysis:**](https://github.com/Haripriya9851/Impact-of-Physical-Lifestyle-factors-on-Sleep-Health) Analyzed the impact of lifestyle factors on sleep health among working adults, providing insights to guide public health policies using R visualizations.
-- [**GenAI Video Analysis:**](https://github.com/Haripriya9851/GenAI-Video-Analysis)Leveraged GPT-4, GenAI LLM model for video analysis, answering multiple queries using video frames for insight generation.
 
 
 ## 🎓 Education
