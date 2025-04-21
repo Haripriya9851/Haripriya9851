@@ -35,7 +35,7 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 
    **Relevant Coursework:** Fundamentals of AI, Probability Theory and Introductory Statistics, Decision Support and Business Intelligence, Predictive Analytics, Risk Analytics
 
-2. **Bachelor of Technology in Computer Science Engineering, SASTRA University, India** (June 2015 – May 2019) 
+2. **Bachelor of Engineering in Computer Science Engineering, SASTRA University, India** (June 2015 – May 2019) 
 
    **Relevant Coursework:** Big Data Analytics, Python Programming with Web Frameworks, Database Management Systems, Data Warehousing and Data Mining, Cloud Computing, Information Storage and Management
    
