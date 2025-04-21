@@ -11,7 +11,6 @@ I'm currently pursuing a Master's in Professional Studies in Analytics at Northe
 I’m driven by a desire to use data science to make a meaningful impact, whether for social good or within any organization. As a quick learner, I’m eager to gain industrial expertise in an environment that fosters growth and skill development. Known for my growth mindset, I approach new challenges with enthusiasm.
 
 ## 🌟 Skills and Expertise
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriya9851&layout=compact)
 
 - **Data Science:** GenAI LLM, Agent, RAG, LangChain, Langgraph, Gemini, Machine Learning, Risk Prediction, Price Forecasting, NLP, Neural Networks
 - **Programming:** Python, SQL, R
