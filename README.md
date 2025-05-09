@@ -8,69 +8,52 @@ Experienced Data Scientist with 4.5+ years at Ford Motor Company, specializing i
 
 I’m driven by a desire to use data science to make a meaningful impact, whether for social good or within any organization. As a quick learner, I’m eager to gain industrial expertise in an environment that fosters growth and skill development. Known for my growth mindset, I approach new challenges with enthusiasm.
 
-## 🌟 Skills and Expertise
-<p align="left">
-  <!-- R -->
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <!-- SQL -->
-  <a href="https://commons.wikimedia.org/wiki/File:Sql_data_base_with_logo.png" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Database Logo" width="40" height="40"/>
-</a>
+## 🌟 Skills & Tools
+
+### 🤖 AI & GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3E3E3E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1F7AE0?style=for-the-badge)
+- LLMs, Agents, Retrieval-Augmented Generation (RAG) Architecture, Vector Search
+- Prompt Engineering, Autonomous Agents, Conversational AI
+
+---
+
+### 📈 Data Science (Stats, Model Optimization, Forecasting)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- Statistical Modeling, Hypothesis Testing, Feature Engineering, ML Optimization,
+- Risk classification, Predictive Forecasting, Time Series
+- Topic Modeling, Sentiment Analysis, NLP, LSTM, Neural Networks
   
-  <!-- GCP -->
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  </a>
-  
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Gemini -->
-  <a href="https://deepmind.google/technologies/gemini/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="40" height="40"/>
-  </a>
+### 🏗️ Data Engineering & MLOps
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-F40000?style=for-the-badge&logo=tekton&logoColor=white)
+- Data Pipelines (ETL), Modeling, Orchestration  
+- Cloud Platforms (GCP, AWS, Snowflake)  
+- GitOps, CI/CD, Airflow, Terraform, Tekton  
 
-
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
-  </a>
-
-  <!-- Qlik -->
-  <a href="https://www.qlik.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/354242/qlik.svg" alt="Qlik" width="40" height="40"/>
-  </a>
-
-  <!-- Angular -->
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  </a>
-
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  </a>
-
-  <!-- Streamlit -->
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="40" height="40"/>
-  </a>
-</p>
-
-- **Data Science:** GenAI LLM, Agent, RAG, LangChain, Langgraph, Gemini, Machine Learning, Risk Prediction, Price Forecasting, NLP, Neural Networks
-- **Programming:** Python, SQL, R
-- **Cloud Computing:** Google Cloud Platform (GCP), Vertex AI, BigQuery
-- **Data Engineering:** Data Pipelines, ETL Processes, Data Modeling, Large-Scale Data Manipulation
-- **MLOps Tools:** Git, Terraform, Tekton, AirFlow
-- **BI Tools:** Alteryx, Qlik, Tableau, Power BI
+### 📊 Data Integration & BI Reporting 
+![Alteryx](https://img.shields.io/badge/Alteryx-005B9F?style=for-the-badge&logo=alteryx&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+- BI Dashboarding, descriptive & prescriptive Storytelling
+- Data Wrangling & Integration with Alteryx, Qlik  
+- Interactive Apps with Streamlit, Flask, Django 
 
 ## 🚀 Projects
 
