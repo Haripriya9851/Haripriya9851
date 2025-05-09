@@ -1,6 +1,4 @@
-# Hey, I'm Hari Priya :) 
-
-## Data Scientist
+# Hello, I'm Hari Priya :) 
 
 ## 👋 About Me
 
@@ -20,16 +18,13 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 
 ---
 
-### 📈 Data Science (Stats, Model Optimization, Forecasting)
+### 📈 Data Science (Stats, Model Optimization, Risk Model, Forecasting Models)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - Statistical Modeling, Hypothesis Testing, Feature Engineering, ML Optimization,
-- Risk classification, Predictive Forecasting, Time Series
+- Risk classification, Forecasting, Time Series
 - Topic Modeling, Sentiment Analysis, NLP, LSTM, Neural Networks
-  
 ---
 
 ### 🏗️ Data Engineering & MLOps
@@ -45,6 +40,8 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 - Cloud Platforms (GCP, AWS, Snowflake)  
 - GitOps, CI/CD, Airflow, Terraform, Tekton  
 
+---
+
 ### 📊 Data Integration & BI Reporting 
 ![Alteryx](https://img.shields.io/badge/Alteryx-005B9F?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
@@ -57,8 +54,8 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 
 ## 🚀 Projects
 
-- [**Supply Chain Acharya - GenAI Agentbot for Retail Challenges**](https://github.com/Haripriya9851/SupplychainAcharya-5dgAI-Capstone) Built a GenAI powered agent, that could understand user queries in natural language, and dynamically generate SQL understanding the schema of the databases, to diagnose supply chain issues using Function calling with Gemini, LangChain, and LangGraph.
-- [**MBTA On-Time Prediction Analysis**](): Investigated Boston MBTA subway on-time prediction transit, provide recommendations on significant factors to include in existing MBTA on-time prediction model for improved accuracy based on statistical tests and Feature selection methods.
+- [**Supply Chain Acharya - GenAI Agentbot for Retail Challenges**](https://github.com/Haripriya9851/SupplychainAcharya-5dgAI-Capstone) Built a GenAI powered agent, that could understand user queries in natural language, and dynamically generate SQL understanding the schema of the ERP databases, to diagnose supply chain issues using Function calling with Gemini, LangChain, and LangGraph.
+- [**MBTA On-Time Prediction Analysis**](https://github.com/Haripriya9851/MBTA-On-Time-Prediction-Accuracy-Analysis): Investigated Boston MBTA subway on-time prediction transit, provide recommendations on significant factors to include in existing MBTA on-time prediction model for improved accuracy based on statistical tests and Feature selection methods.
 - [**Yelp Restaurants NLP LDA Topic Modeling:**](https://github.com/Haripriya9851/Yelp-Restaurants-Topic-Modelling---NLP) Performed sentiment analysis on Yelp reviews and categorized topics using the LDA model, leading to improved customer sentiment insights.
 - [**Twitter Sentiment Analysis:**](https://github.com/Haripriya9851/Twitter-Sentiment-Analysis) Leveraged deep neural network models like CNN and LSTM to effectively classify offensive Twitter comments.
 - [**Life Expectancy Analysis:**](https://github.com/Haripriya9851/Global-Life-Expectancy-Analysis-2000-2019-Insights-from-World-Bank-Data) Investigated the impact of socio-economic factors on life expectancy across different regions using ML clustering techniques. Visualized the results as a Tableau dashboard, delivering actionable insights for public health improvement.
