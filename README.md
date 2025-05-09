@@ -1,12 +1,10 @@
 # Hey, I'm Hari Priya :) 
 
-## Data Science Engineer
+## Data Scientist
 
 ## 👋 About Me
 
 Experienced Data Scientist with 4.5+ years at Ford Motor Company, specializing in end-to-end machine learning and artificial intelligence projects. Proven expertise in risk prediction, price forecasting, NLP topic modeling, and data visualization using BI tools such as Qlik and Tableau. Skilled in Python and SQL for data engineering and ML pipeline development on Google Cloud Platform (GCP), including BigQuery, Vertex AI, Cloud Run, and Airflow. Strong background in deploying GenAI solutions using Gemini and Retrieval-Augmented Generation (RAG) for PDF summarization. Developed intelligent agents with function calling, leveraging LangChain and LangGraph for real-time root cause analysis and decision support. Currently pursuing a Master’s in Analytics at Northeastern University.
-
-## 🎯 Goals
 
 I’m driven by a desire to use data science to make a meaningful impact, whether for social good or within any organization. As a quick learner, I’m eager to gain industrial expertise in an environment that fosters growth and skill development. Known for my growth mindset, I approach new challenges with enthusiasm.
 
@@ -18,6 +16,66 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 - **Data Engineering:** Data Pipelines, ETL Processes, Data Modeling, Large-Scale Data Manipulation
 - **MLOps Tools:** Git, Terraform, Tekton, AirFlow
 - **BI Tools:** Alteryx, Qlik, Tableau, Power BI
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  </a>
+
+  <!-- Streamlit -->
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="40" height="40"/>
+  </a>
+  
+  <!-- GCP -->
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+  </a>
+
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
+  </a>
+
+  <!-- Gemini -->
+  <a href="https://deepmind.google/technologies/gemini/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="40" height="40"/>
+  </a>
+
+
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
+  </a>
+
+  <!-- Qlik -->
+  <a href="https://www.qlik.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/354242/qlik.svg" alt="Qlik" width="40" height="40"/>
+  </a>
+
+  <!-- Angular -->
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  </a>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+</p>
+
 
 ## 🚀 Projects
 
