@@ -9,41 +9,25 @@ Experienced Data Scientist with 4.5+ years at Ford Motor Company, specializing i
 I’m driven by a desire to use data science to make a meaningful impact, whether for social good or within any organization. As a quick learner, I’m eager to gain industrial expertise in an environment that fosters growth and skill development. Known for my growth mindset, I approach new challenges with enthusiasm.
 
 ## 🌟 Skills and Expertise
-
-- **Data Science:** GenAI LLM, Agent, RAG, LangChain, Langgraph, Gemini, Machine Learning, Risk Prediction, Price Forecasting, NLP, Neural Networks
-- **Programming:** Python, SQL, R
-- **Cloud Computing:** Google Cloud Platform (GCP), Vertex AI, BigQuery
-- **Data Engineering:** Data Pipelines, ETL Processes, Data Modeling, Large-Scale Data Manipulation
-- **MLOps Tools:** Git, Terraform, Tekton, AirFlow
-- **BI Tools:** Alteryx, Qlik, Tableau, Power BI
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- R -->
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
   </a>
-
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  </a>
-
-  <!-- Streamlit -->
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="40" height="40"/>
-  </a>
+  <!-- SQL -->
+  <a href="https://commons.wikimedia.org/wiki/File:Sql_data_base_with_logo.png" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Database Logo" width="40" height="40"/>
+</a>
   
   <!-- GCP -->
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
   </a>
-
+  
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
@@ -70,12 +54,23 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   </a>
 
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  </a>
+
+  <!-- Streamlit -->
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" alt="Streamlit" width="40" height="40"/>
   </a>
 </p>
 
+- **Data Science:** GenAI LLM, Agent, RAG, LangChain, Langgraph, Gemini, Machine Learning, Risk Prediction, Price Forecasting, NLP, Neural Networks
+- **Programming:** Python, SQL, R
+- **Cloud Computing:** Google Cloud Platform (GCP), Vertex AI, BigQuery
+- **Data Engineering:** Data Pipelines, ETL Processes, Data Modeling, Large-Scale Data Manipulation
+- **MLOps Tools:** Git, Terraform, Tekton, AirFlow
+- **BI Tools:** Alteryx, Qlik, Tableau, Power BI
 
 ## 🚀 Projects
 
