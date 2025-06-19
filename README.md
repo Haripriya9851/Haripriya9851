@@ -79,5 +79,3 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 - **Portfolio:** [Portfolio Website](https://github.com/Haripriya9851)
 
 ---
-
-Feel free to reach out if you'd like to collaborate on a project or just chat about data science, cloud computing, or anything tech-related!
