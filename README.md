@@ -1,12 +1,12 @@
 # Hello, I'm Hari Priya :) 
 
-## 👋 About Me
+## About Me
 
 Experienced Data Scientist with 4.5+ years at Ford Motor Company, specializing in end-to-end machine learning and artificial intelligence projects. I have worked on risk prediction, price forecasting, NLP topic modeling, and data visualization using BI tools such as Qlik and Tableau. Skilled in Python and SQL for data engineering and ML pipeline development on Google Cloud Platform (GCP), including BigQuery, Vertex AI, Cloud Run, and Airflow. Strong background in deploying GenAI solutions using Gemini and Retrieval-Augmented Generation (RAG) for PDF summarization. Developed intelligent agents with function calling, leveraging LangChain and LangGraph for real-time root cause analysis and decision support. Currently pursuing a Master’s in Analytics at Northeastern University.
 
 I’m driven by a desire to use data science to make a meaningful impact, whether for social good or within any organization. As a quick learner, I’m eager to gain industrial expertise in an environment that fosters growth and skill development. Known for my growth mindset, I approach new challenges with enthusiasm.
 
-## 🌟 Skills & Tools
+## Skills & Tools
 
 ### 🤖 AI & GenAI
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -18,7 +18,7 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 
 ---
 
-### 📈 Data Science (Stats, Model Optimization, Risk Model, Forecasting Models)
+### Data Science (Stats, Model Optimization, Risk Model, Forecasting Models)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -27,7 +27,7 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 - Topic Modeling, Sentiment Analysis, NLP, LSTM, Neural Networks
 ---
 
-### 🏗️ Data Engineering & MLOps
+### Data Engineering & MLOps
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -42,7 +42,7 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 
 ---
 
-### 📊 Data Integration & BI Reporting 
+### Data Integration & BI Reporting 
 ![Alteryx](https://img.shields.io/badge/Alteryx-005B9F?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -52,7 +52,7 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 - Data Wrangling & Integration with Alteryx, Qlik  
 - Interactive Apps with Streamlit, Flask, Django 
 
-## 🚀 Projects
+## Projects
 
 - [**Supply Chain Acharya - GenAI Agentbot for Retail Challenges**](https://github.com/Haripriya9851/SupplychainAcharya-5dgAI-Capstone) Built a GenAI powered agent, that could understand user queries in natural language, and dynamically generate SQL understanding the schema of the ERP databases, to diagnose supply chain issues using Function calling with Gemini, LangChain, and LangGraph.
 - [**MBTA On-Time Prediction Analysis**](https://github.com/Haripriya9851/MBTA-On-Time-Prediction-Accuracy-Analysis): Investigated Boston MBTA subway on-time prediction transit, provide recommendations on significant factors to include in existing MBTA on-time prediction model for improved accuracy based on statistical tests and Feature selection methods.
@@ -62,7 +62,7 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 - [**Sleep Health Analysis:**](https://github.com/Haripriya9851/Impact-of-Physical-Lifestyle-factors-on-Sleep-Health) Analyzed the impact of lifestyle factors on sleep health among working adults, providing insights to guide public health policies using R visualizations.
 
 
-## 🎓 Education
+## Education
 
 1. **Master of Professional Studies in Analytics, Northeastern University, Boston, USA** (July 2024– May 2026)
 
@@ -72,7 +72,7 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 
    **Relevant Coursework:** Big Data Analytics, Python Programming with Web Frameworks, Database Management Systems, Data Warehousing and Data Mining, Cloud Computing, Information Storage and Management
    
-## 🌐 Get in Touch
+## Get in Touch
 
 - **Email:** [ramamoorthy.h@northeastern.edu](mailto:ramamoorthy.h@northeastern.edu)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/haripriya-ram-791595154/)
