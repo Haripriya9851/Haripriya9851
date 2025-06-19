@@ -3,8 +3,11 @@
 ## About Me
 ![Ex-Ford Data Scientist](https://img.shields.io/badge/Ex--Ford_Data_Scientist-003399?style=for-the-badge&logo=ford&logoColor=white)
 ![Graduate Research Assistant](https://img.shields.io/badge/Graduate_Research_Assistant-9_months-6a1b9a?style=for-the-badge&logo=wikipedia&logoColor=white)
-
-
+![Google Cloud Platform](https://img.shields.io/badge/GCP-Expert-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Supply Chain](https://img.shields.io/badge/Supply_Chain-Experience-0c7c59?style=for-the-badge&logo=chainlink&logoColor=white)
+![Audit](https://img.shields.io/badge/Audit-Automation-4B0082?style=for-the-badge&logo=trustpilot&logoColor=white)
+![Finance](https://img.shields.io/badge/Finance-Analytics-0a192f?style=for-the-badge&logo=paypal&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Healthcare-AI_Projects-e63946?style=for-the-badge&logo=mdbook&logoColor=white)
 
 I'm an experienced Data Scientist with 4.5+ years at Ford Motor Company, specializing in end-to-end machine learning and artificial intelligence projects. I have worked on risk prediction, price forecasting, NLP topic modeling, and data visualization using BI tools such as Qlik and Tableau. Skilled in Python and SQL for data engineering and ML pipeline development on Google Cloud Platform (GCP), including BigQuery, Vertex AI, Cloud Run, and Airflow. Strong background in deploying GenAI solutions using Gemini and Retrieval-Augmented Generation (RAG) for PDF summarization. Developed intelligent agents with function calling, leveraging LangChain and LangGraph for real-time root cause analysis and decision support. Currently pursuing a Master’s in Analytics at Northeastern University.
 
