@@ -8,7 +8,6 @@
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-Risk_Analytics_&_Optimization-F57C00?style=for-the-badge&logo=chainlink&logoColor=white) <!-- Orange -->
 ![Audit + GenAI](https://img.shields.io/badge/Audit_+_GenAI-Automation-8E24AA?style=for-the-badge&logo=openai&logoColor=white) <!-- Violet -->
 ![Finance](https://img.shields.io/badge/Finance-Forecasting-FF7043?style=for-the-badge&logo=paypal&logoColor=white) <!-- Light Orange -->
-![ETL Pipeline](https://img.shields.io/badge/Data_Engineering-GCP_ETL_Pipeline-66BB6A?style=for-the-badge&logo=googlecloud&logoColor=white) <!-- Lighter Green -->
 ![Northeastern University](https://img.shields.io/badge/Northeastern_University-Grad_Research_Assistant-AB47BC?style=for-the-badge&logo=academia&logoColor=white) <!-- Violet substitute -->
 
 
