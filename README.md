@@ -4,12 +4,11 @@
 ![Ex-Ford Data Scientist](https://img.shields.io/badge/Ex--Ford_Data_Scientist-00274C?style=for-the-badge&logo=ford&logoColor=white)
 ![Graduate Research Assistant](https://img.shields.io/badge/Northeastern_University-Grad_Research_Assistant-CC0000?style=for-the-badge&logo=wikipedia&logoColor=white)
 
-![GCP](https://img.shields.io/badge/Google_Cloud_Platform-Expert-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Supply Chain](https://img.shields.io/badge/Supply_Chain-Risk%20Analytics%20and%20Optimization-2A9D8F?style=for-the-badge&logo=chainlink&logoColor=white)
-![Audit + GenAI](https://img.shields.io/badge/Audit-GenAI%20Automation-7B1FA2?style=for-the-badge&logo=openai&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Expert-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Supply Chain](https://img.shields.io/badge/Supply_Chain-Risk_Analytics_&_Optimization-00A896?style=for-the-badge&logo=chainlink&logoColor=white)
+![Audit + GenAI](https://img.shields.io/badge/Audit_GenAI-Automation-AB47BC?style=for-the-badge&logo=openai&logoColor=white)
 ![Finance](https://img.shields.io/badge/Finance-Forecasting-1E88E5?style=for-the-badge&logo=paypal&logoColor=white)
-![ETL Pipeline](https://img.shields.io/badge/GCP-Data_Engineering-1E88E5?style=for-the-badge&logo=googlecloud&logoColor=white)
-
+![ETL Pipeline](https://img.shields.io/badge/Data_Engineering-GCP_ETL_Pipeline-43BCCD?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
 I'm an experienced Data Scientist with 4.5+ years at Ford Motor Company, specializing in end-to-end machine learning and artificial intelligence projects. I have worked on risk prediction, price forecasting, NLP topic modeling, and data visualization using BI tools such as Qlik and Tableau. Skilled in Python and SQL for data engineering and ML pipeline development on Google Cloud Platform (GCP), including BigQuery, Vertex AI, Cloud Run, and Airflow. Strong background in deploying GenAI solutions using Gemini and Retrieval-Augmented Generation (RAG) for PDF summarization. Developed intelligent agents with function calling, leveraging LangChain and LangGraph for real-time root cause analysis and decision support. Currently pursuing a Master’s in Analytics at Northeastern University.
