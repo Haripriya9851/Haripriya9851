@@ -76,8 +76,7 @@ I’m driven by a desire to use data science to make a meaningful impact, whethe
 
 - **Email:** [ramamoorthy.h@northeastern.edu](mailto:ramamoorthy.h@northeastern.edu)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/haripriya-ram-791595154/)
-- **GitHub:** [GitHub Profile](https://github.com/Haripriya9851)
-- **Portfolio:** [Portfolio Website](https://github.com/Haripriya9851/Haripriya9851/edit/main/README.md)
+- **Portfolio:** [Portfolio Website](https://github.com/Haripriya9851)
 
 ---
 
