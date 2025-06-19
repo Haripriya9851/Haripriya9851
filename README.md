@@ -1,7 +1,9 @@
 # Hello, I'm Hari Priya :) 
 
 ## About Me
-![Ford Data Scientist](https://img.shields.io/badge/Ford-Data%20Scientist-003399?style=for-the-badge&logo=ford&logoColor=white)
+![Ex-Ford Data Scientist](https://img.shields.io/badge/Ex--Ford_Data_Scientist-003399?style=for-the-badge&logo=ford&logoColor=white)
+![Graduate Research Assistant](https://img.shields.io/badge/Graduate_Research_Assistant-9_months-6a1b9a?style=for-the-badge&logo=wikipedia&logoColor=white)
+
 
 
 I'm an experienced Data Scientist with 4.5+ years at Ford Motor Company, specializing in end-to-end machine learning and artificial intelligence projects. I have worked on risk prediction, price forecasting, NLP topic modeling, and data visualization using BI tools such as Qlik and Tableau. Skilled in Python and SQL for data engineering and ML pipeline development on Google Cloud Platform (GCP), including BigQuery, Vertex AI, Cloud Run, and Airflow. Strong background in deploying GenAI solutions using Gemini and Retrieval-Augmented Generation (RAG) for PDF summarization. Developed intelligent agents with function calling, leveraging LangChain and LangGraph for real-time root cause analysis and decision support. Currently pursuing a Master’s in Analytics at Northeastern University.
