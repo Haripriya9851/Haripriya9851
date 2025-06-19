@@ -2,7 +2,7 @@
 
 ## About Me
 ![Ex-Ford Data Scientist](https://img.shields.io/badge/Ex--Ford_Data_Scientist-003399?style=for-the-badge&logo=ford&logoColor=white)
-![Graduate Research Assistant](https://img.shields.io/badge/Graduate_Research_Assistant-9_months-6a1b9a?style=for-the-badge&logo=wikipedia&logoColor=white)
+**Northeastern** ![Graduate Research Assistant](https://img.shields.io/badge/Graduate_Research_Assistant-9_months-6a1b9a?style=for-the-badge&logo=wikipedia&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-Expert-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain-Experience-0c7c59?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Audit](https://img.shields.io/badge/Audit-Automation-4B0082?style=for-the-badge&logo=trustpilot&logoColor=white)
