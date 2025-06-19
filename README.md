@@ -76,5 +76,5 @@ I'm an experienced Data Scientist with 4.5+ years at Ford Motor Company, special
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/haripriya-ram-791595154/)
 - **Portfolio:** [Portfolio Website](https://github.com/Haripriya9851)
 
-I’m driven by a desire to use data science to make a meaningful impact, whether for social good or within any organization. As a quick learner, I’m eager to gain industrial expertise in an environment that fosters growth and skill development. Known for my growth mindset, I approach new challenges with enthusiasm.
+  I’m driven by a desire to use data science to make a meaningful impact, whether for social good or within any organization. As a quick learner, I’m eager to gain industrial expertise in an environment that fosters growth and skill development. Known for my growth mindset, I approach new challenges with enthusiasm.
 ---
