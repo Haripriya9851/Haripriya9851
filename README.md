@@ -22,7 +22,7 @@ I'm an experienced Data Scientist with 4.5+ years at Ford Motor Company, special
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - Statistical Modeling, Hypothesis Testing, Feature Engineering, ML Optimization,
 - Risk classification, Forecasting, Time Series
-- Topic Modeling, Sentiment Analysis, NLP, LSTM, Neural Networks
+- NLP Topic Recommendation, Sentiment Analysis, NLP, LSTM, Neural Networks
 ---
 
 ### Data Engineering & MLOps
