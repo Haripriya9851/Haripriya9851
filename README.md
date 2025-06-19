@@ -44,6 +44,7 @@ I'm an experienced Data Scientist with 4.5+ years at Ford Motor Company, special
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Tekton](https://img.shields.io/badge/Tekton-F40000?style=for-the-badge&logo=tekton&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/GCP-Vertex_AI_Modeling-34A853?style=for-the-badge&logo=google&logoColor=white)
 - Data Pipelines (ETL), Modeling, Orchestration  
 - Cloud Platforms (GCP, AWS, Snowflake)  
 - GitOps, CI/CD, Airflow, Terraform, Tekton  
@@ -51,6 +52,7 @@ I'm an experienced Data Scientist with 4.5+ years at Ford Motor Company, special
 ---
 
 ### Data Integration & BI Reporting 
+![CI/CD](https://img.shields.io/badge/CI/CD-Airflow_&_Cloud_Build-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-005B9F?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
