@@ -5,9 +5,9 @@
 ![Northeastern University](https://img.shields.io/badge/Northeastern_University-Grad_Research_Assistant-AB47BC?style=for-the-badge&logo=academia&logoColor=white) <!-- Violet substitute -->
 
 ![GCP](https://img.shields.io/badge/GCP-Expert-43A047?style=for-the-badge&logo=googlecloud&logoColor=white) <!-- Green -->
-![Supply Chain](https://img.shields.io/badge/Supply_Chain-Risk_Analytics_&_Optimization-F57C00?style=for-the-badge&logo=chainlink&logoColor=white) <!-- Orange -->
-![Audit + GenAI](https://img.shields.io/badge/Audit_+_GenAI-Automation-8E24AA?style=for-the-badge&logo=openai&logoColor=white) <!-- Violet -->
-![Finance](https://img.shields.io/badge/Finance-Forecasting-FF7043?style=for-the-badge&logo=paypal&logoColor=white) <!-- Light Orange -->
+![Fraud & Supply Chain](https://img.shields.io/badge/Supply_Chain-Risk_Analytics_&_Optimization-F57C00?style=for-the-badge&logo=chainlink&logoColor=white) <!-- Orange -->
+![GenAI](https://img.shields.io/badge/Audit_+_GenAI-Automation-8E24AA?style=for-the-badge&logo=openai&logoColor=white) <!-- Violet -->
+![Finance Forecasting](https://img.shields.io/badge/Finance-Forecasting-FF7043?style=for-the-badge&logo=paypal&logoColor=white) <!-- Light Orange -->
 
 
 I'm an experienced Data Scientist with 4.5+ years at Ford Motor Company, specializing in end-to-end machine learning and artificial intelligence projects. I have worked on risk prediction, price forecasting, NLP topic modeling, and data visualization using BI tools such as Qlik and Tableau. Skilled in Python and SQL for data engineering and ML pipeline development on Google Cloud Platform (GCP), including BigQuery, Vertex AI, Cloud Run, and Airflow. Strong background in deploying GenAI solutions using Gemini and Retrieval-Augmented Generation (RAG) for PDF summarization. Developed intelligent agents with function calling, leveraging LangChain and LangGraph for real-time root cause analysis and decision support. Currently pursuing a Master’s in Analytics at Northeastern University.
