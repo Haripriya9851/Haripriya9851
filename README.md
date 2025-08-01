@@ -6,7 +6,7 @@
 
 ![GCP](https://img.shields.io/badge/GCP-Expert-43A047?style=for-the-badge&logo=googlecloud&logoColor=white) <!-- Green -->
 ![Fraud & Supply Chain](https://img.shields.io/badge/Supply_Chain-Risk_Analytics_&_Optimization-F57C00?style=for-the-badge&logo=chainlink&logoColor=white) <!-- Orange -->
-![GenAI](https://img.shields.io/badge/Audit_+_GenAI-Automation-8E24AA?style=for-the-badge&logo=openai&logoColor=white) <!-- Violet -->
+![GenAI](https://img.shields.io/badge/GenAI-Automation-8E24AA?style=for-the-badge&logo=openai&logoColor=white) <!-- Violet -->
 ![Finance Forecasting](https://img.shields.io/badge/Finance-Forecasting-FF7043?style=for-the-badge&logo=paypal&logoColor=white) <!-- Light Orange -->
 
 
